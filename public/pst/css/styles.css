@@ -1,0 +1,42 @@
+li {
+  float: left;
+  margin-right: 50px;
+}
+
+
+
+ul {
+  width=100%;
+  list-style-type: none;
+  font-size: 9pt;
+  text-transform: uppercase;
+  font-family: Futura;
+}
+h1 {
+  font-family: 'Old English Five', sans-serif;
+  font-weight: 900;
+  font-size: 50pt;
+  width: 80%;
+  margin-left: 10%;
+  /*
+  background-color: blue;
+  color: white;
+  */
+}
+
+p {
+  font-family: 'Avenir Next', sans-serif;
+  font-weight: 900;
+  font-size: 14pt;
+  width: 80%;
+  margin-left: 10%;
+  /*
+  background-color: blue;
+  color: white;
+  */
+}
+
+#logo {
+  height: 100 px;
+  width: 80px;
+}
